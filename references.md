@@ -1,3 +1,2 @@
-# References
+this is atiq
 
-* octocat 1 😈
